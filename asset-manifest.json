@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Fetch_Cocktail_React/static/css/main.5c529f91.chunk.css",
+    "main.js": "/Fetch_Cocktail_React/static/js/main.e0e02ebd.chunk.js",
+    "main.js.map": "/Fetch_Cocktail_React/static/js/main.e0e02ebd.chunk.js.map",
+    "runtime-main.js": "/Fetch_Cocktail_React/static/js/runtime-main.b62ecba8.js",
+    "runtime-main.js.map": "/Fetch_Cocktail_React/static/js/runtime-main.b62ecba8.js.map",
+    "static/js/2.72303b8e.chunk.js": "/Fetch_Cocktail_React/static/js/2.72303b8e.chunk.js",
+    "static/js/2.72303b8e.chunk.js.map": "/Fetch_Cocktail_React/static/js/2.72303b8e.chunk.js.map",
+    "index.html": "/Fetch_Cocktail_React/index.html",
+    "precache-manifest.e6f0723b2249ac846c9575e06d5cbcc4.js": "/Fetch_Cocktail_React/precache-manifest.e6f0723b2249ac846c9575e06d5cbcc4.js",
+    "service-worker.js": "/Fetch_Cocktail_React/service-worker.js",
+    "static/css/main.5c529f91.chunk.css.map": "/Fetch_Cocktail_React/static/css/main.5c529f91.chunk.css.map",
+    "static/js/2.72303b8e.chunk.js.LICENSE.txt": "/Fetch_Cocktail_React/static/js/2.72303b8e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Fetch_Cocktail_React/static/media/logo.9a3d2645.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b62ecba8.js",
+    "static/js/2.72303b8e.chunk.js",
+    "static/css/main.5c529f91.chunk.css",
+    "static/js/main.e0e02ebd.chunk.js"
+  ]
+}
