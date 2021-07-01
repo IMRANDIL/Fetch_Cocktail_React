@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "41caf97b354c05d7229e5aef3a4f203a",
+    "revision": "df1f29eb48de21b80bf785e82cac007a",
     "url": "/Fetch_Cocktail_React/index.html"
   },
   {
-    "revision": "5f59ff4b2676fa829ace",
+    "revision": "81b5abffb155b35ec17b",
     "url": "/Fetch_Cocktail_React/static/css/main.5c529f91.chunk.css"
   },
   {
-    "revision": "e1f6309a6f0d3e350015",
-    "url": "/Fetch_Cocktail_React/static/js/2.72303b8e.chunk.js"
+    "revision": "68e9d93a1dfba5322ade",
+    "url": "/Fetch_Cocktail_React/static/js/2.e42185e2.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Fetch_Cocktail_React/static/js/2.72303b8e.chunk.js.LICENSE.txt"
+    "url": "/Fetch_Cocktail_React/static/js/2.e42185e2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5f59ff4b2676fa829ace",
-    "url": "/Fetch_Cocktail_React/static/js/main.e0e02ebd.chunk.js"
+    "revision": "81b5abffb155b35ec17b",
+    "url": "/Fetch_Cocktail_React/static/js/main.b51a0bc2.chunk.js"
   },
   {
     "revision": "c438b260f277f78bf667",
