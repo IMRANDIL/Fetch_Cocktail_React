@@ -12,7 +12,7 @@ function App() {
     <Router>
       <Navbar />
       <Switch>
-        <Route exact path='/'>
+        <Route exact path='/Fetch_Cocktail_React'>
           <Home />
         </Route>
         <Route path='/about'>
