@@ -17,7 +17,7 @@ const preventDefaultt = (e)=>{
     const inputValue = searchValue.current.value;
     setSearchTerm(inputValue)
     if(!inputValue){
-      setSearchTerm('a')
+      return setSearchTerm('a')
     }
   }
   
