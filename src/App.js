@@ -1,5 +1,6 @@
 import React from 'react'
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
+//import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { HashRouter as Router } from 'react-router-dom'
 // import pages
 import Home from './pages/Home'
 import About from './pages/About'
@@ -9,19 +10,19 @@ import Error from './pages/Error'
 import Navbar from './components/Navbar'
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Navbar />
       <Switch>
-        <Route exact path='/'>
+        <Route exact path='/' component={Home}>
           <Home />
         </Route>
-        <Route path='/about'>
+        <Route exact path='/about' component={About}>
           <About />
         </Route>
-        <Route path='/cocktail/:id'>
+        <Route exact path='/cocktail/:id' component={SingleCocktail}>
           <SingleCocktail />
         </Route>
-        <Route  path='*'>
+        <Route exact path='*' component={Error}>
           <Error />
         </Route>
       </Switch>
